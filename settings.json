@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "TheCottageBOT",
-    "password": "bitchesgetstitches",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "The-Cottage-C1-S1.aternos.me",
     "port": 37929,
-    "version": "26.1.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
