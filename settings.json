@@ -8,7 +8,7 @@
   "server": {
     "ip": "The-Cottage-C1-S3.aternos.me",
     "port": 27278,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "6610rjoblimar"
     },
     "anti-afk": {
