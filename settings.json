@@ -9,7 +9,7 @@
     "ip": "The-Cottage-C1-S3.aternos.me",
     "port": 27278,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
