@@ -8,8 +8,8 @@
   "server": {
     "ip": "The-Cottage-C1-S3.aternos.me",
     "port": 27278,
-    "version": "",
-    "try-creative": false
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
