@@ -1219,6 +1219,7 @@ function createBot() {
       host: config.server.ip,
       port: config.server.port,
       version: botVersion,
+      connectTimeout: 180000,
       hideErrors: false,
       checkTimeoutInterval: 600000,
     });
